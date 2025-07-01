@@ -34,6 +34,7 @@
 
 ### Frameworks y librerías
 
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green)
 ![Ollama](https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
 ![RASA](https://img.shields.io/badge/Rasa-8d2be9?style=for-the-badge&logo=rasa)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
