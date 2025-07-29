@@ -36,7 +36,9 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green)
 ![Ollama](https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
+![OpenAI](https://shields.io/badge/-OpenAI-ffffff?logo=openai&logoColor=37BC7D&style=for-the-badge)
 ![RASA](https://img.shields.io/badge/Rasa-8d2be9?style=for-the-badge&logo=rasa)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
